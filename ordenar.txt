@@ -1,1 +1,4 @@
 ghykd
+codificando c++
+funcion1
+fin de la función
